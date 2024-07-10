@@ -1,2 +1,0 @@
-{"__type":"$$EventMessageAudit","id":"e2c187c8-c143-4514-9657-81473a1f7bf3","ts":"2024-07-10T17:18:58.410+00:00","eventName":"n8n.audit.user.login.success","message":"n8n.audit.user.login.success","payload":{"authenticationMethod":"email","userId":"098f3234-dff6-46e0-94d6-c1b3c5afcd30","_email":"diouf@alchemy.fr","_firstName":"Support","_lastName":"Alchemy","globalRole":"global:owner"}}
-{"__type":"$$EventMessageConfirm","confirm":"e2c187c8-c143-4514-9657-81473a1f7bf3","ts":"2024-07-10T17:18:58.474+00:00","source":{"id":"0","name":"eventBus"}}
